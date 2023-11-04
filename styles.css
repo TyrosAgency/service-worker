@@ -1,0 +1,20 @@
+body {
+  background-color: seashell;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: blue;
+}
+
+p {
+  color: blue;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: black;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
